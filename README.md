@@ -8,7 +8,6 @@ Badges for your personal developer branding, profile, and projects.
 - [Tips](#tips)
 - [Badges](#badges)
   - <details> <summary>List of badges</summary>
- 
      - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
      - [Blog](#-blog)
      - [Blockchain](#-blockchain)
@@ -59,11 +58,9 @@ To use a badge:
 
 # Tips
 
-<details> 
-<summary>👇 How to use a different badge style</summary>
-<hr>
+👇 **How to use a different badge style</summary>**
 
-> <strong>Note:</strong> `for-the-badge` is the style that we chose for appearance purposes. Other styles are available at [https://shields.io/#styles](https://shields.io/#styles) and can be used with the badges here. Thanks, @kingthorin for mentioning this!
+<strong>Note:</strong> `for-the-badge` is the style that we chose for appearance purposes. Other styles are available at [https://shields.io/#styles](https://shields.io/#styles) and can be used with the badges here. Thanks, @kingthorin for mentioning this!
 
 
 Shields.io offers 5 styles, which are:
@@ -88,14 +85,10 @@ https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic
 https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 ```
 
-</details>
 
-<details> 
-<summary>👇 Use Ctrl + F or CMD + F to search</summary>
- <hr>
+👇 **Use Ctrl + F or CMD + F to search</summary>**
 
- > <strong>Tip:</strong> Since there are a lot of badges, to search for the particular badge you are looking for, use Ctrl + F and type the name you want. Thanks, @JakyeRU for mentioning this!
-</details>
+<strong>Tip:</strong> Since there are a lot of badges, to search for the particular badge you are looking for, use Ctrl + F and type the name you want. Thanks, @JakyeRU for mentioning this!
 
 
 # Badges
